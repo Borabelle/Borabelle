@@ -1,20 +1,19 @@
 # Borabelle
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### I am Yoo, Full Stack Web Developer from :kr: Seoul, Republic of Korea 
+### I am Chun, Full Stack Web Developer from :kr: Seoul, Republic of Korea 
 
 ### About me
 
 :four_leaf_clover: I’m currently learning Basic Programming skills like Python, HTML, CSS and Javascript.<br/>
-:pencil: Sometimes I write articles on [Medium](https://medium.com/) <br/> <!-- Add a links-->
-📫 How to reach me: myEmail@gmail.com <br/>
+:pencil:  <br/> <!-- Add a links-->
+📫 How to reach me: cbr2134@gmail.com <br/>
 
 ### Interest
 
-Web development <br/>
-Animation with pure CSS & P5.js <br/>
+
 
 ### Latest Projects
-[Git_merge_practice](https://github.com/Frog000/merge_3.2_before_fast_forward)
+
 
 ### Languages and Tools
 
