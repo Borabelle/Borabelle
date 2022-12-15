@@ -4,7 +4,7 @@
 
 ### About me
 
-:four_leaf_clover: I’m currently learning Basic Programming skills like Python, HTML, CSS and Javascript.<br/>
+:four_leaf_clover: I’m currently learning Basic Programming skills like Python, React and Spring.<br/>
 :pencil:  <br/> <!-- Add a links-->
 📫 How to reach me: cbr2134@gmail.com <br/>
 
